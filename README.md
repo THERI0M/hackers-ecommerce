@@ -1,10 +1,10 @@
- #  Hackers E-commerce - Backend Modular en Go
+ #  Hackers E-commerce 
 
 Este proyecto consiste en el diseño y desarrollo del sistema de gestión para una tienda en línea de accesorios de computadora llamada **"Hackers"**. Desarrollado como parte del plan de estudios de la UIDE (Modalidad a Distancia), el sistema aplica los principios fundamentales de la **Programación Funcional** utilizando el lenguaje Go.
 
 ---
 
-## 🛠️ Arquitectura del Proyecto
+##  Arquitectura del Proyecto
 
 El backend está estructurado de forma modular para garantizar la escalabilidad y un bajo acoplamiento entre sus componentes:
 
